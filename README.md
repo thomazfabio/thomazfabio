@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ola seja bem vindo! me chamo Fabio Thomaz, sou apaixonado por tecnologia
 
 <!--
 **thomazfabio/thomazfabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
