@@ -1,5 +1,9 @@
-### Ola seja bem vindo! me chamo Fabio Thomaz, sou apaixonado por tecnologia
+## Oi, seja bem vindo(a)!
+### Sou Fabio Thomaz, estudante de Sistemas de Informação e desenvolvedor Javascript.
+ <a> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thomazfabio" /> </a>
+ <a> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomazfabio&layout=compact&langs_count=8&card_width=320" /></a>
 
+##
 <!--
 **thomazfabio/thomazfabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
